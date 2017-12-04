@@ -1,0 +1,9 @@
+C:\SQLServerXML_JSON\XMLFile_ETL\ReadWriteXML\ReadWriteXML\bin\Debug\ReadWriteXML.dacpac
+C:\SQLServerXML_JSON\XMLFile_ETL\ReadWriteXML\ReadWriteXML\bin\Debug\ReadWriteXML.dll
+C:\SQLServerXML_JSON\XMLFile_ETL\ReadWriteXML\ReadWriteXML\bin\Debug\ReadWriteXML.pdb
+C:\SQLServerXML_JSON\XMLFile_ETL\ReadWriteXML\ReadWriteXML\obj\Debug\ReadWriteXML.dll
+C:\SQLServerXML_JSON\XMLFile_ETL\ReadWriteXML\ReadWriteXML\obj\Debug\ReadWriteXML.pdb
+C:\SQLServerXML_JSON\XMLFile_ETL\ReadWriteXML\ReadWriteXML\obj\Debug\Model.xml
+C:\SQLServerXML_JSON\XMLFile_ETL\ReadWriteXML\ReadWriteXML\obj\Debug\refactor.xml
+C:\SQLServerXML_JSON\XMLFile_ETL\ReadWriteXML\ReadWriteXML\obj\Debug\postdeploy.sql
+C:\SQLServerXML_JSON\XMLFile_ETL\ReadWriteXML\ReadWriteXML\obj\Debug\predeploy.sql

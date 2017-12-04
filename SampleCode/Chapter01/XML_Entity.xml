@@ -1,0 +1,7 @@
+﻿<char>
+  <ToXML Entity="Entity ampersand &amp;; in XML data." />
+  <ToXML Entity="Entity less-than sign &lt;; in XML data." />
+  <ToXML Entity="Entity greater-than sign &gt;; in XML data." />
+  <ToXML Entity="Entity apostrophe &apos;; in XML data." />
+  <ToXML Entity="Entity quotation mark &quot;; in XML data." />
+</char>

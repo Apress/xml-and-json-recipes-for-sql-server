@@ -1,0 +1,21 @@
+﻿<Category>
+  <Category xmlns="http://schemas.microsoft.com/sqlserver/2004/07/Chapter01/ProductSchema">
+    <CategoryName>Accessories</CategoryName>
+    <Subcategory>
+      <SubcategoryName>Bike Racks</SubcategoryName>
+      <Product>
+        <Name>Hitch Rack - 4-Bike</Name>
+        <Number>RA-H123</Number>
+        <Price>120.0000</Price>
+      </Product>
+    </Subcategory>
+    <Subcategory>
+      <SubcategoryName>Bike Stands</SubcategoryName>
+      <Product>
+        <Name>All-Purpose Bike Stand</Name>
+        <Number>ST-1401</Number>
+        <Price>159.0000</Price>
+      </Product>
+    </Subcategory>
+  </Category>
+</Category>
